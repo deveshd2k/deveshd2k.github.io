@@ -1,9 +1,3 @@
-@font-face {
-  font-family: "Bebas Neue";
-  src: url('fonts/BebasNeue.otf')format('opentype');
-  font-weight: normal;
-  font-style: normal;
-}
 body{
   font-family: "Bebas Neue";
 }

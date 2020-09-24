@@ -10,12 +10,6 @@
   font-weight: normal;
   font-style: normal;
 }
-@font-face {
-  font-family: "Bebas Neue";
-  src: url('../fonts/BebasNeue.otf')format('opentype');
-  font-weight: normal;
-  font-style: normal;
-}
 body{
   box-sizing: border-box;
   position: relative;
