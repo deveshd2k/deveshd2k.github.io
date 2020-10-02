@@ -103,8 +103,11 @@
 </html>
 
 <script>
-var cw = $('.rows').width();
-$('.rows').css({
-    'height': cw + 'px'
-});
+
+document.getElementsByTagName("BODY")[0].onresize = function(){
+  let box = document.querySelector('.rows');
+  $('.rows').css({
+      'height': box.offsetWidth
+  });
+};
 </script>
