@@ -97,28 +97,28 @@ body{
   line-height: 110px;
 }
 .item-1{
-  background-image: url("../images/UIUX/Cake Ordering Application.jpg");
+  background-image: url("../images/UIUX/workflow.png");
 }
 .item-2{
-  background-image: url("../images/UIUX/No Internet.jpg");
+  background-image: url("../images/UIUX/scheduler.png");
 }
 .item-3{
-  background-image: url("../images/UIUX/Expense Tracker.jpg");
+  background-image: url("../images/UIUX/maker-checker.png");
 }
 .item-4{
-  background-image: url("../images/UIUX/Payments App.jpg");
+  background-image: url("../images/UIUX/Cake Ordering Application.jpg");
 }
 .item-5{
-  background-image: url("../images/UIUX/La Uniqa.jpg");
+  background-image: url("../images/UIUX/No Internet.jpg");
 }
 .item-6{
-  background-image: url("../images/UIUX/Rescue Maps.jpg");
+  background-image: url("../images/UIUX/interaction_using_shapes.jpg");
 }
 .item-7{
-  background-image: url("../images/UIUX/Warehouse Management.jpg");
+  background-image: url("../images/UIUX/Expense Tracker.jpg");
 }
 .item-8{
-  background-image: url("../images/UIUX/Football.jpg");
+  background-image: url("../images/UIUX/Payments App.jpg");
 }
 .flex-container{
   display: flex;
